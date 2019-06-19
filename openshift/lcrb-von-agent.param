@@ -1,0 +1,9 @@
+#=========================================================
+# OpenShift template parameters for:
+# Component: .
+# Template File: templates/von-x-agent.yaml
+#=========================================================
+NAME=von-x-agent
+GIT_REPO_URL=https://github.com/brianorwhatever/von-agent-template.git
+GIT_REF=master
+SOURCE_CONTEXT_DIR=von-x-agent

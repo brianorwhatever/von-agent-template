@@ -1,5 +1,4 @@
-[
-{
+[{
     "attributes": {
         "corp_num": "6f564a2d-e5fc-4580-b5db-2a300409c45c",
         "registration_id": "6f564a2d-e5fc-4580-b5db-2a300409c45c",
@@ -12,7 +11,4 @@
     },
     "schema": "Cannabis Retail Store Licence",
     "version": "0.0.3"
-}
-]
-
-
+}]
