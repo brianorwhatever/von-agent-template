@@ -1,14 +1,14 @@
 [
 {
     "attributes": {
-        "corp_num": "6f564a2d-e5fc-4580-b5db-2a300409c45c",
-        "registration_id": "6f564a2d-e5fc-4580-b5db-2a300409c45c",
-        "legal_name": "Test Company",
-        "licence_number": "123834234234999",
+        "corp_num": "FM0299794",
+        "registration_id": "FM0299794",
+        "legal_name": "BRIAN GOGLIA WOODWORKS",
+        "licence_number": "1",
         "establishment_name": "Test Company Establishment",
-        "issue_date": "2017-11-01T08:00:00+00:00",
-        "effective_date": "2017-11-01T08:00:00+00:00",
-        "expiry_date": "2017-11-01T08:00:00+00:00"
+        "issue_date": "2019-06-01T08:00:00+00:00",
+        "effective_date": "2019-06-01T08:00:00+00:00",
+        "expiry_date": "2019-06-01T08:00:00+00:00"
     },
     "schema": "Cannabis Retail Store Licence",
     "version": "0.0.3"
