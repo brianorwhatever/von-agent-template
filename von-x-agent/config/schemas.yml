@@ -1,5 +1,5 @@
 - name: Cannabis Retail Store Licence
-  version: '0.0.3'
+  version: '0.0.4'
   description: Cannabis Retail Store Licence Issued by Liquor and Cannabis Regulation Branch
   path: /cannabis-retail-store/licence
   attributes:
